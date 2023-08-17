@@ -1,0 +1,29 @@
+.section-with-background {
+  /* background-image: url('../assets/images/shpe_meeting_3.jpg'); */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../assets/images/shpe_meeting_3.jpg');
+  background-size: cover;
+  /* background-attachment:fixed;  */
+  background-position: center bottom;
+  height: 500px;
+  position:relative; 
+}
+
+.title-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: whitesmoke;
+  font-size: 4rem;
+  font-weight: 500;
+  font-weight: bold; 
+  text-shadow: -1px -1px 0 grey, 
+               1px -1px 0 grey, 
+               -1px 1px 0 grey, 
+               1px 1px 0 grey;
+}
+
+.title-overlay p {
+  font-size: 1.2rem;
+}
