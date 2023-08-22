@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shpecu/shpecu.github.io/static/css/main.560c6d45.chunk.css",
+    "main.js": "/shpecu/shpecu.github.io/static/js/main.42ad03fa.chunk.js",
+    "main.js.map": "/shpecu/shpecu.github.io/static/js/main.42ad03fa.chunk.js.map",
+    "runtime-main.js": "/shpecu/shpecu.github.io/static/js/runtime-main.4aa08c37.js",
+    "runtime-main.js.map": "/shpecu/shpecu.github.io/static/js/runtime-main.4aa08c37.js.map",
+    "static/js/2.26656981.chunk.js": "/shpecu/shpecu.github.io/static/js/2.26656981.chunk.js",
+    "static/js/2.26656981.chunk.js.map": "/shpecu/shpecu.github.io/static/js/2.26656981.chunk.js.map",
+    "index.html": "/shpecu/shpecu.github.io/index.html",
+    "static/css/main.560c6d45.chunk.css.map": "/shpecu/shpecu.github.io/static/css/main.560c6d45.chunk.css.map",
+    "static/js/2.26656981.chunk.js.LICENSE.txt": "/shpecu/shpecu.github.io/static/js/2.26656981.chunk.js.LICENSE.txt",
+    "static/media/shpe_logo.c4b73998.png": "/shpecu/shpecu.github.io/static/media/shpe_logo.c4b73998.png",
+    "static/media/home.css": "/shpecu/shpecu.github.io/static/media/shpe_meeting_3.07f75461.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa08c37.js",
+    "static/js/2.26656981.chunk.js",
+    "static/css/main.560c6d45.chunk.css",
+    "static/js/main.42ad03fa.chunk.js"
+  ]
+}
