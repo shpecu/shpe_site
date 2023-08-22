@@ -1,4 +1,5 @@
 {
+    "homepage": "https://github.com/shpecu/shpecu.github.io",
     "name": "club-website",
     "version": "1.0.0",
     "description": "A simple React website for My Club",
@@ -6,6 +7,8 @@
     "license": "MIT",
     "scripts": {
       "start": "react-scripts start",
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
       "build": "react-scripts build"
     },
     "dependencies": {
