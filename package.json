@@ -1,8 +1,8 @@
 {
     "homepage": ".",
-    "name": "club-website",
+    "name": "shpecu",
     "version": "1.0.0",
-    "description": "A simple React website for My Club",
+    "description": "Shpe CU react web app",
     "author": "Your Name",
     "license": "MIT",
     "scripts": {
