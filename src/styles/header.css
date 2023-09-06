@@ -1,0 +1,100 @@
+  /* header styles */
+
+
+
+/* styles/header.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1A2B52; /* Set your desired background color */
+  padding: 10px 20px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  position: sticky; 
+  top: 0;
+  z-index:10;
+}
+
+.headertop {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px; /* Set your desired logo width */
+  height: auto;
+  margin-right: 10px;
+}
+
+.shpe-text1 {
+  font-size: 1.5rem;
+  color: white; /* Set your desired text color */
+}
+
+.divider {
+  width: 2px;
+  height: 30px;
+  background-color: white; /* Set your desired divider color */
+  margin: 0 10px;
+}
+
+.shpe-text2 {
+  font-size: 1rem;
+  color: white; /* Set your desired text color */
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 15px;
+}
+
+/* .nav-links a {
+  text-decoration: none;
+  color: white; 
+  font-size: 1rem;
+} */
+
+/* Adjust responsive styles as needed */
+@media screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .shpe-text1,
+  .shpe-text2 {
+    font-size: 1rem;
+  }
+
+  .divider {
+    display: none;
+  }
+
+  .nav-links {
+    margin-top: 10px;
+  }
+
+  .nav-links li {
+    margin: 5px 0;
+  }
+}
+
+
+.main-nav {
+  color: white;
+  text-decoration: none;
+}
+
+.main-nav-active {
+  color:red;
+}
+
+.main-nav:hover {
+  color: red; /* Change the color on hover */
+}
