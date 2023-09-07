@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.a143837a.chunk.css",
-    "main.js": "./static/js/main.04ec22e3.chunk.js",
-    "main.js.map": "./static/js/main.04ec22e3.chunk.js.map",
+    "main.js": "./static/js/main.121f001d.chunk.js",
+    "main.js.map": "./static/js/main.121f001d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6a8fe77d.js",
     "runtime-main.js.map": "./static/js/runtime-main.6a8fe77d.js.map",
-    "static/js/2.d26dad0d.chunk.js": "./static/js/2.d26dad0d.chunk.js",
-    "static/js/2.d26dad0d.chunk.js.map": "./static/js/2.d26dad0d.chunk.js.map",
+    "static/js/2.bc902e0b.chunk.js": "./static/js/2.bc902e0b.chunk.js",
+    "static/js/2.bc902e0b.chunk.js.map": "./static/js/2.bc902e0b.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.a143837a.chunk.css.map": "./static/css/main.a143837a.chunk.css.map",
-    "static/js/2.d26dad0d.chunk.js.LICENSE.txt": "./static/js/2.d26dad0d.chunk.js.LICENSE.txt",
+    "static/js/2.bc902e0b.chunk.js.LICENSE.txt": "./static/js/2.bc902e0b.chunk.js.LICENSE.txt",
     "static/media/2023_fall_first_meeting.afd24a32.png": "./static/media/2023_fall_first_meeting.afd24a32.png",
     "static/media/nationals_all.b216055f.JPG": "./static/media/nationals_all.b216055f.JPG",
     "static/media/shpe_logo.c4b73998.png": "./static/media/shpe_logo.c4b73998.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6a8fe77d.js",
-    "static/js/2.d26dad0d.chunk.js",
+    "static/js/2.bc902e0b.chunk.js",
     "static/css/main.a143837a.chunk.css",
-    "static/js/main.04ec22e3.chunk.js"
+    "static/js/main.121f001d.chunk.js"
   ]
 }
