@@ -5,7 +5,7 @@ import m3 from '../assets/images/shpe_meeting_3.jpg'
 import a1 from '../assets/images/nationals_all.JPG'
 import event_photo from '../assets/images/events/2023_fall_first_meeting.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faTwitter, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import '../styles/about.css';
 
 
@@ -56,17 +56,15 @@ const Home = () => {
 
       <div className="footer-container">
         <div className="social-media">
-          <a className='socials' href="https://www.facebook.com/your-facebook-page" target="_blank" rel="noopener noreferrer">
-            <FontAwesomeIcon icon={faFacebook} />
-          </a>
-          <a className='socials' href="https://www.instagram.com/your-instagram-page" target="_blank" rel="noopener noreferrer">
+          <a className='socials' href="https://www.instagram.com/cuboulder_shpemaes/" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faInstagram} />
+          </a>
+          <a className='socials' href="https://www.facebook.com/your-facebook-page" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </div>
         <div className="contact-info">
-          <p>Email: contact@example.com</p>
-          <p>Phone: (123) 456-7890</p>
-          <p>Address: 1234 Example St, City, Country</p>
+          <p>Email: shpe.maes.cuboulder@gmail.com</p>
         </div>
       </div>
 
