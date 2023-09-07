@@ -2,7 +2,6 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { FaHome, FaInfo, FaEnvelope, FaInstagram, FaFacebook } from 'react-icons/fa';
 import shpe_logo from '../assets/logos/shpe_logo.png';
-import '../index.css';
 import '../styles/header.css';
 
 const Header = () => {
@@ -33,11 +32,6 @@ const Header = () => {
         <li>
           <NavLink to="/contact" exact className="main-nav" activeClassName="main-nav-active">
             Contact
-          </NavLink>
-        </li>
-        <li>
-          <NavLink to="/Events" exact className="main-nav" activeClassName="main-nav-active">
-            Events
           </NavLink>
         </li>
       </ul>

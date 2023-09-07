@@ -6,6 +6,7 @@ import a1 from '../assets/images/nationals_all.JPG'
 import event_photo from '../assets/images/events/2023_fall_first_meeting.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faTwitter, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import '../styles/about.css';
 
 
 const Home = () => {
@@ -80,11 +81,6 @@ const Home = () => {
     
   );
 };
-
-
-
-
-
 
 
 
