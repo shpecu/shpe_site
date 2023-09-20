@@ -25,8 +25,23 @@ const Header = () => {
           </NavLink>
         </li>
         <li>
-          <NavLink to="/services" exact className="main-nav" activeClassName="main-nav-active">
+          <NavLink to="/Board" exact className="main-nav" activeClassName="main-nav-active">
+            Board
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/Nationals" exact className="main-nav" activeClassName="main-nav-active">
+            Nationals
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/Membership" exact className="main-nav" activeClassName="main-nav-active">
             Membership
+          </NavLink>
+        </li>
+        <li>
+          <NavLink to="/Events" exact className="main-nav" activeClassName="main-nav-active">
+            Events
           </NavLink>
         </li>
         <li>
@@ -37,6 +52,6 @@ const Header = () => {
       </ul>
     </nav>
   );
-}
+};
 
 export default Header;

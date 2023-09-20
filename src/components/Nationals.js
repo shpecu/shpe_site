@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 // import '../styles/home.css';
 
-const Events = () => {
-
+const Nationals = () => {
 
   const [scrollPosition, setScrollPosition] = useState(0);
 
@@ -38,5 +37,4 @@ const Events = () => {
     
   );
 };
-
-export default Events;
+export default Nationals;

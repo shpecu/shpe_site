@@ -1,138 +1,26 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-/* first image section css */
-.image1 {
-  /* opacity: 0.5; */
-  min-height: 92vh;
-  position: relative;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
-}
-
-.image1 .content {
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100vh;
-}
-
-/* event box updates css */
-
-.event-box {
-  padding: 5.5rem 1rem;
-  position: relative;
-  margin-top: 20px
-;
-}
-
-.event-box .event-title {
-  text-transform: uppercase;
-  font-size: 3rem;
-  position: absolute; 
-  top: 0;
-  /* text-align: center; */
-}
-
-.event-box .event_img {
-
-  /* width: 600px; */
-  text-align: center;
-  display: block;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-  width: 70%;
-}
-
-.content span.img-txt {
-  text-transform: uppercase;
-  position: absolute;
-  top: 30%;
-  /* left: 50%; */
-  /* transform: translate(-50%, -50%); */
-  text-align: center;
-  color: whitesmoke;
-  font-size: 5rem;
-  font-weight: 500;
-  font-weight: bold; 
-  text-shadow: -1px -1px 0 red, 
-               1px -1px 0 orange, 
-               -1px 1px 0 yellow, 
-               1px 1px 0 blue;
-}
-
-
-
-/* third image css */
-
-.image3 {
-  /* opacity: 0.5; */
-  min-height: 40vh;
-  position: relative;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
   
-}
-
-.image3 .content {
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100vh;
-}
-
-
-.social-media {
-  color: gray;
-  float: right;
-  /* text-align: right; */
-}
-
-.socials{
-  color: grey;
-  font-size: 50px;
-  margin-right: 10px; 
-}
-
-.footer-container {
-  padding: 5.5rem 1rem;
-
-}
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
   
   /* first image section css */
-  .image1a {
+  .imageabout {
     /* opacity: 0.5; */
-    min-height: 70vh;
+    min-height: 85vh;
     position: relative;
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
   }
   
-  .image1a .content {
+  .image1 .content {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -143,13 +31,14 @@ code {
   
   /* event box updates css */
   
-  .event-boxa {
-    padding: 1rem 1rem;
+  .event-box {
+    padding: 5.5rem 1rem;
     position: relative;
-    margin-top: -20px
+    margin-top: 20px
+  ;
   }
   
-  .event-boxa .event-title {
+  .event-box .event-title {
     text-transform: uppercase;
     font-size: 3rem;
     position: absolute; 
@@ -157,35 +46,198 @@ code {
     /* text-align: center; */
   }
   
+  .event-box .event_img {
   
-  
-  /* third image css */
-  
-  .image3a {
-    /* opacity: 0.5; */
-    min-height: 40vh;
-    position: relative;
-    
-  }
-  
-  .image3a .content {
-    position: absolute;
-    display: flex;
+    /* width: 600px; */
+    text-align: center;
+    display: block;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 100vh;
+    margin: auto;
+    width: 70%;
+  }
+  
+  .content span.img-txt {
+    text-transform: uppercase;
+    position: absolute;
+    top: 30%;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+    color: whitesmoke;
+    font-size: 5rem;
+    font-weight: 500;
+    font-weight: bold; 
+    text-shadow: -1px -1px 0 Black, 
+                 1px -1px 0 darkblue, 
+                 -1px 1px 0 blue, 
+                 1px 1px 0 navy;
   }
   
   
   
-.about-us-container {
-    max-width: 800px;
-    margin: 0 auto;
+  
+  .social-media {
+    color: gray;
+    float: right;
+    /* text-align: right; */
+  }
+  
+  .socials{
+    color: grey;
+    font-size: 50px;
+    margin-right: 10px; 
+  }
+  
+  .footer-container {
+    padding: 5.5rem 1rem;
+  
+  }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* first image section css */
+    .image1a {
+      /* opacity: 0.5; */
+      min-height: 70vh;
+      position: relative;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+    }
+    
+    .image1a .content {
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100vh;
+    }
+    
+    /* event box updates css */
+    
+    .event-boxa {
+      padding: 1rem 1rem;
+      position: relative;
+      /* margin-top: -10px */
+    }
+    
+    .event-boxa .event-title {
+      text-transform: uppercase;
+      font-size: 3rem;
+      position: absolute; 
+      top: 0;
+      /* text-align: center; */
+    }
+    
+    
+    
+    /* third image css */
+    
+    .image3a {
+      /* opacity: 0.5; */
+      min-height: 60vh;
+      position: relative;
+      
+    }
+    
+    .image3a .content {
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100vh;
+    }
+    
+    
+    
+  .shpeabout {
+      /* max-width: 800px; */
+      /* margin: 0 auto; */
+      padding: 30px;
+
+      /* width: 40rem; */
+      /* border-radius: 1rem; */
+      /* box-shadow: 0px 0px 2px #999; */
+      display: flex;
+      flex-direction: column;
+      /* margin: 1rem; */
+      background-color: white;
+      /* height: fit-content; */
+      text-align: center;
+      
+  }
+  .heading1 {
+    max-width: 300px;
+  }
+
+  .shpedef{
+    padding: 30px;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 4px #999;
+    width: 1000px;
+  }
+
+  .shpeabouttext{
+    /* max-width: 900px; */
+    /* box-shadow: 0px 0px 2px #999; */
     padding: 20px;
-    text-align: center;
+    margin-top: 20px;
+  }
+
+  .goalList {
+    margin-left: 30px;
+    /* width: 100px */
+    text-align: left;
+    padding-left: 5;
+    border-radius: 1rem;
+
+  }
+
+  
+  h1 {
+      font-size: 50px;
+    }
+
+  .h2 {
+    font-size: 30px;
+  }
+  
+.mission{
+  padding: 30px;
+  box-shadow: 0px 0px 4px #999;
+  width: 1000px;
+  margin-top:20px;
+  border-radius: 1rem;
+
 }
 
-h1 {
-    font-size: 50px;
-  }
+.col-3{ 
+
+  /* padding: 10px; */
+  text-align:center;
+  margin: auto;
+  /* box-shadow: 0px 0px 2px #999; */
+
+}
+
+.col-5{ 
+
+text-align: left;
+}
+
+
+
+.ul li {
+  margin-bottom: 15px;
+}
