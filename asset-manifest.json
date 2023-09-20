@@ -1,25 +1,39 @@
 {
   "files": {
-    "main.css": "./static/css/main.a143837a.chunk.css",
-    "main.js": "./static/js/main.121f001d.chunk.js",
-    "main.js.map": "./static/js/main.121f001d.chunk.js.map",
+    "main.css": "./static/css/main.48b3741c.chunk.css",
+    "main.js": "./static/js/main.d5ede1fb.chunk.js",
+    "main.js.map": "./static/js/main.d5ede1fb.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.6a8fe77d.js",
     "runtime-main.js.map": "./static/js/runtime-main.6a8fe77d.js.map",
-    "static/js/2.bc902e0b.chunk.js": "./static/js/2.bc902e0b.chunk.js",
-    "static/js/2.bc902e0b.chunk.js.map": "./static/js/2.bc902e0b.chunk.js.map",
+    "static/js/2.c6e7ed05.chunk.js": "./static/js/2.c6e7ed05.chunk.js",
+    "static/js/2.c6e7ed05.chunk.js.map": "./static/js/2.c6e7ed05.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a143837a.chunk.css.map": "./static/css/main.a143837a.chunk.css.map",
-    "static/js/2.bc902e0b.chunk.js.LICENSE.txt": "./static/js/2.bc902e0b.chunk.js.LICENSE.txt",
+    "static/css/main.48b3741c.chunk.css.map": "./static/css/main.48b3741c.chunk.css.map",
+    "static/js/2.c6e7ed05.chunk.js.LICENSE.txt": "./static/js/2.c6e7ed05.chunk.js.LICENSE.txt",
     "static/media/2023_fall_first_meeting.afd24a32.png": "./static/media/2023_fall_first_meeting.afd24a32.png",
+    "static/media/academicchair.412d0b3e.png": "./static/media/academicchair.412d0b3e.png",
+    "static/media/historian.2513d979.png": "./static/media/historian.2513d979.png",
+    "static/media/memberengage.101e357e.png": "./static/media/memberengage.101e357e.png",
     "static/media/nationals_all.b216055f.JPG": "./static/media/nationals_all.b216055f.JPG",
+    "static/media/outreachco.b0663e02.png": "./static/media/outreachco.b0663e02.png",
+    "static/media/president.e40d6616.png": "./static/media/president.e40d6616.png",
+    "static/media/professionaldev.0d9d5f65.png": "./static/media/professionaldev.0d9d5f65.png",
+    "static/media/pubrelations.b658d22d.png": "./static/media/pubrelations.b658d22d.png",
+    "static/media/secretary.f14319c5.png": "./static/media/secretary.f14319c5.png",
+    "static/media/sept21.76aa6ed7.png": "./static/media/sept21.76aa6ed7.png",
+    "static/media/sept22.cfda31ec.png": "./static/media/sept22.cfda31ec.png",
     "static/media/shpe_logo.c4b73998.png": "./static/media/shpe_logo.c4b73998.png",
     "static/media/shpe_meeting_2.85314bf0.jpg": "./static/media/shpe_meeting_2.85314bf0.jpg",
-    "static/media/shpe_meeting_3.07f75461.jpg": "./static/media/shpe_meeting_3.07f75461.jpg"
+    "static/media/shpe_meeting_3.07f75461.jpg": "./static/media/shpe_meeting_3.07f75461.jpg",
+    "static/media/socialmedia.a7d6ca2b.png": "./static/media/socialmedia.a7d6ca2b.png",
+    "static/media/treasurer.a19a4eb9.png": "./static/media/treasurer.a19a4eb9.png",
+    "static/media/vicepresident.309b4f98.png": "./static/media/vicepresident.309b4f98.png",
+    "static/media/webmaster.304f92c6.png": "./static/media/webmaster.304f92c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a8fe77d.js",
-    "static/js/2.bc902e0b.chunk.js",
-    "static/css/main.a143837a.chunk.css",
-    "static/js/main.121f001d.chunk.js"
+    "static/js/2.c6e7ed05.chunk.js",
+    "static/css/main.48b3741c.chunk.css",
+    "static/js/main.d5ede1fb.chunk.js"
   ]
 }
